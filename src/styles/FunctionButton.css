@@ -1,0 +1,17 @@
+.bt{
+    width: 200px;
+    height: 50px;
+    margin: 20px;
+}
+
+.solidF{
+    background-color: greenyellow;
+    color: black;
+    border: none;
+}
+
+.frameF{
+    background-color: transparent;
+    border: 2px solid greenyellow;
+    color: black;
+}
